@@ -1,0 +1,13 @@
+joblib
+matplotlib
+numpy
+pandas
+python_dateutil
+scikit_learn
+scipy
+seaborn
+sympy
+colorlog
+pydot
+pyqt5
+tqdm

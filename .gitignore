@@ -1,0 +1,14 @@
+.DS_Store
+__pycache__/
+venv/
+.venv/
+
+# Trained models and generated outputs
+*.keras
+*.h5
+*.pkl
+*.joblib
+results_to_share/
+model_versions/
+predictions_untouched/
+border_refinement_test/
